@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is BCF2-4912
+
+ Directory of C:\Temp\merge_test_1
+
+02/14/2018  04:37 PM    <DIR>          .
+02/14/2018  04:37 PM    <DIR>          ..
+02/14/2018  04:37 PM                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  329,310,076,928 bytes free
